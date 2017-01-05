@@ -210,9 +210,6 @@ print("hello")
 
 
 
-
-
-
 [Blog](  https://40423143.github.io/2016fallcadp_hw/blog/index.html  )
 
 
