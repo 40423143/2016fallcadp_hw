@@ -73,17 +73,7 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="leo.20161222004639.1" a="E"><vh>20161222</vh>
-<v t="leo.20161222004639.2"><vh>@edit 20161222.md</vh></v>
-</v>
-<v t="leo.20161201221719.1" a="E"><vh>20161221</vh>
-<v t="leo.20161201221719.2"><vh>@edit 20161221.md</vh></v>
-</v>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-</v>
-</v>
+<v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh></v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
@@ -125,7 +115,6 @@ print("hello")
 <t tx="amd.20160106094754.1"></t>
 <t tx="amd.20160106094829.1"></t>
 <t tx="amd.20160106095324.1"></t>
-<t tx="amd.20160727114506.1"></t>
 <t tx="amd.20160921213353.1"></t>
 <t tx="amd.20161004083800.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -366,6 +355,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161201211705.2">###零件繪製影片
 
+&lt;iframe src="https://player.vimeo.com/video/194417544" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/194417544"&gt;2016 12 06 05 44 38 64&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="leo.20161201211810.1">&lt;section data-markdown&gt;
@@ -377,7 +367,10 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161201211810.2">#SolveSpace
+<t tx="leo.20161201211810.2">#SolveSpace 
+
+&lt;iframe src="https://player.vimeo.com/video/194437233" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/194437233"&gt;2016 12 06 08 33 19 778&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+ 
  
 </t>
 <t tx="leo.20161201211950.1">&lt;section data-markdown&gt;
@@ -419,11 +412,11 @@ DEFAULT_DATE = 'fs'</t>
 
 
 </t>
-<t tx="leo.20161201221719.1"></t>
 <t tx="leo.20161201223822.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
+    
 &lt;/section&gt;
 
 
@@ -432,9 +425,9 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161201223822.2">#week一.二.三
 #小組作業
 
+&lt;iframe src="https://player.vimeo.com/video/194984046" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/194984046"&gt;2016 12 09 22 43 18 32&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
-<t tx="leo.20161222004639.1"></t>
 <t tx="yen.20161016024324.1">&lt;section&gt;
 @others
 &lt;/section&gt;
